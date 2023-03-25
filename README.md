@@ -1,4 +1,5 @@
-# Customers-Data-SQL-ETL-
+# Customers-Data-SQL
+
 Sales Insights Data Analysis Project
 
 ### Data Analysis Using SQL
